@@ -15,7 +15,7 @@
 
 ## What i'm up to
 
-- 🔭 I’m currently working on webservice integration between JDEdwards ERP an different custom webservices, mostly focused on AFIP
+- 🔭 I’m currently working on webservice integration between JDEdwards ERP and different custom webservices, mostly focused on AFIP
 - 🌱 I’m currently learning 
   -  Java <code><img height="20" src="http://www.manualweb.net/img/logos/java.png"></code>
   - C <code><img height="20" src="https://img.icons8.com/color/452/c-programming.png"></code>
